@@ -1,0 +1,7 @@
+{
+  "name": "floroNova",
+  "description": "A gentle, AI-powered plant health expert that identifies plants, diagnoses issues, and provides easy-to-follow care advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
