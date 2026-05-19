@@ -1,3 +1,4 @@
+# 🧠 Machine Learning & AI Components
 # 🌿 FloroNova — AI-Powered Smart Plant Care Assistant
 
 FloroNova is an intelligent, AI-powered plant care assistant that helps users identify, diagnose, and treat plant health issues in real time using AR, computer vision, and multimodal AI.
@@ -30,7 +31,24 @@ FloroNova solves this using **AI + AR + Multimodal intelligence**:
 ---
 
 # 🌟 Key Features
+## 📌 Key ML Concept Used
 
+Although the system is not trained from scratch, it demonstrates:
+- Computer Vision-based classification
+- Feature interpretation from images
+- Probabilistic confidence estimation
+- Decision system based on learned patterns
+- Multimodal AI fusion
+
+---
+
+## 📌 Future ML Improvements (Planned)
+
+- Custom-trained CNN model for plant disease detection
+- Dataset-based supervised learning pipeline
+- Plant species classification model
+- Time-series plant health prediction
+- On-device lightweight ML model for offline detection
 ## 📸 AR Real-Time Plant Analysis
 - Live camera-based plant scanning
 - Highlights affected areas using AR visualization
