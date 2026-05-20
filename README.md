@@ -247,7 +247,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/15DRRKp5NzcfP34VCwqHP39
 
 
 👨‍💻 Author
-Your Name
+Ritika Yadav
 AI/ML Enthusiast
 
 ⭐ Final Note
